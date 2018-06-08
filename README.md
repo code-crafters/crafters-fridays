@@ -11,4 +11,4 @@ Este repositorio contiene las soluciones retos que ponemos cada viernes.
 ## Busca Dígitos.
 [Aquí](https://mentealgoritmica.blogspot.com/2018/06/reto-001.html) encontrarás las instrucciones del ejercicio.
 ### Soluciones
-* Autor, Lenguaje, Enlace a la solución.
+* [Oswaldo D. Gomez Huerta](https://github.com/oswaldo89), Javascript, https://gist.github.com/oswaldo89/e6f687c63f4d693030a1a1eef85dde70 .
