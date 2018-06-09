@@ -12,4 +12,4 @@ Este repositorio contiene las soluciones retos que ponemos cada viernes.
 [Aquí](https://mentealgoritmica.blogspot.com/2018/06/reto-001.html) encontrarás las instrucciones del ejercicio.
 ### Soluciones
 * Autor, Lenguaje, Enlace a la solución.
-* Ludim, Python 3, [Solucion Reto 1](https://github.com/Ludim/crafters-fridays/blob/master/reto-1-soluciones/find_digits_ludim.py)
+* Ludim Salo, Python 3, [Solucion Reto 1](https://github.com/Ludim/crafters-fridays/blob/master/reto-1-soluciones/find_digits_ludim.py)
