@@ -71,3 +71,9 @@ También puede que a tu solución se te pidan cambios así que mantente al pendi
 * [Javier Garza Cantisani](https://github.com/javiergarzac), Javascript, https://gist.github.com/javiergarzac/a767f6b1c2887f1b9688c735b9f1d684 .
 * [Rodolfo Montes G.](https://github.com/rodolfomg), C, https://gist.github.com/rodolfomg/6db0ef03e015ecc3dd7edfe34e9e4732 .
 * [Miguel Puerto](https://github.com/mike890), (js html), https://jsfiddle.net/atki890/w4g6pva9/3/
+
+# Reto 2:
+## Anagramas.
+[Aquí](https://mentealgoritmica.blogspot.com/2018/06/reto-002.html) encontrarás las instrucciones del ejercicio.
+### Soluciones
+* Autor, Lenguaje, Enlace a la solución.
