@@ -77,3 +77,5 @@ También puede que a tu solución se te pidan cambios así que mantente al pendi
 [Aquí](https://mentealgoritmica.blogspot.com/2018/06/reto-002.html) encontrarás las instrucciones del ejercicio.
 ### Soluciones
 * Autor, Lenguaje, Enlace a la solución.
+* [Armando Martinez](https://github.com/jmartinezpena), C#, [Anagrams](https://github.com/jmartinezpena/CodeCraftersChallenges/tree/master/Challenge002)
+
