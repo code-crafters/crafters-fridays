@@ -76,4 +76,5 @@ También puede que a tu solución se te pidan cambios así que mantente al pendi
 ## Anagramas.
 [Aquí](https://mentealgoritmica.blogspot.com/2018/06/reto-002.html) encontrarás las instrucciones del ejercicio.
 ### Soluciones
+* Autor, Lenguaje, Enlace a la solución.
 * [Oswaldo D. Gomez Huerta](https://github.com/oswaldo89), javascript, https://gist.github.com/oswaldo89/1b8f09fbb9e5b9ba948ba0bf4370b4d2.
