@@ -2,6 +2,7 @@
 Este repositorio contiene las soluciones retos que ponemos cada viernes.
 
 # Instrucciones
+
 Para poder contribuir con los retos publicados por la comunidad [Code Crafters](https://www.facebook.com/groups/883425011685153) es necesario tener conocimientos básicos de git y github. A continuación se describen los pasos para poder compartir tu solución.
 
 ## Hacer fork de este proyecto
@@ -75,6 +76,7 @@ También puede que a tu solución se te pidan cambios así que mantente al pendi
 # Reto 2:
 ## Anagramas.
 [Aquí](https://mentealgoritmica.blogspot.com/2018/06/reto-002.html) encontrarás las instrucciones del ejercicio.
+
 Ejemplos de Anagramas: http://www.ejemplos.co/50-ejemplos-de-anagramas
 ### Soluciones
 * Autor, Lenguaje, Enlace a la solución.
