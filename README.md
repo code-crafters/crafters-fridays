@@ -78,5 +78,6 @@ También puede que a tu solución se te pidan cambios así que mantente al pendi
 Ejemplos de Anagramas: http://www.ejemplos.co/50-ejemplos-de-anagramas
 ### Soluciones
 * Autor, Lenguaje, Enlace a la solución.
+* [Oswaldo D. Gomez Huerta](https://github.com/oswaldo89), javascript, https://gist.github.com/oswaldo89/1b8f09fbb9e5b9ba948ba0bf4370b4d2.
 * [Armando Martinez](https://github.com/jmartinezpena), C#, [Anagrams](https://github.com/jmartinezpena/CodeCraftersChallenges/tree/master/Challenge002)
 
