@@ -82,3 +82,8 @@ Ejemplos de Anagramas: http://www.ejemplos.co/50-ejemplos-de-anagramas
 * [Oswaldo D. Gomez Huerta](https://github.com/oswaldo89), javascript, https://gist.github.com/oswaldo89/1b8f09fbb9e5b9ba948ba0bf4370b4d2.
 * [Armando Martínez](https://github.com/jmartinezpena), C#, [Anagrams](https://github.com/jmartinezpena/CodeCraftersChallenges/tree/master/Challenge002)
 
+# Reto 3:
+## Torneo de futbol
+[Aquí](https://mentealgoritmica.blogspot.com/2018/06/reto-003.html) encontrars las instrucciones del ejercicio.
+### Soluciones
+* Autor, Lenguaje, Enlace a la solución.
