@@ -81,6 +81,7 @@ Ejemplos de Anagramas: http://www.ejemplos.co/50-ejemplos-de-anagramas
 * Autor, Lenguaje, Enlace a la solución.
 * [Oswaldo D. Gomez Huerta](https://github.com/oswaldo89), javascript, https://gist.github.com/oswaldo89/1b8f09fbb9e5b9ba948ba0bf4370b4d2.
 * [Armando Martínez](https://github.com/jmartinezpena), C#, [Anagrams](https://github.com/jmartinezpena/CodeCraftersChallenges/tree/master/Challenge002)
+[Miguel Puerto](https://github.com/mike890), (js), https://playcode.io/95231?tabs=console&script.js&output
 
 # Reto 3:
 ## Torneo de futbol
