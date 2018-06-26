@@ -71,6 +71,7 @@ También puede que a tu solución se te pidan cambios así que mantente al pendi
 * [Javier Garza Cantisani](https://github.com/javiergarzac), Javascript, https://gist.github.com/javiergarzac/a767f6b1c2887f1b9688c735b9f1d684 .
 * [Rodolfo Montes G.](https://github.com/rodolfomg), C, https://gist.github.com/rodolfomg/6db0ef03e015ecc3dd7edfe34e9e4732 .
 * [Miguel Puerto](https://github.com/mike890), (js html), https://jsfiddle.net/atki890/w4g6pva9/3/
+* [Armando Martínez](https://github.com/jmartinezpena), C#, [Find Digits](https://github.com/jmartinezpena/CodeCraftersChallenges/tree/master/Challenge001)
 
 # Reto 2:
 ## Anagramas.
@@ -79,5 +80,10 @@ Ejemplos de Anagramas: http://www.ejemplos.co/50-ejemplos-de-anagramas
 ### Soluciones
 * Autor, Lenguaje, Enlace a la solución.
 * [Oswaldo D. Gomez Huerta](https://github.com/oswaldo89), javascript, https://gist.github.com/oswaldo89/1b8f09fbb9e5b9ba948ba0bf4370b4d2.
-* [Armando Martinez](https://github.com/jmartinezpena), C#, [Anagrams](https://github.com/jmartinezpena/CodeCraftersChallenges/tree/master/Challenge002)
+* [Armando Martínez](https://github.com/jmartinezpena), C#, [Anagrams](https://github.com/jmartinezpena/CodeCraftersChallenges/tree/master/Challenge002)
 
+# Reto 3:
+## Torneo de futbol
+[Aquí](https://mentealgoritmica.blogspot.com/2018/06/reto-003.html) encontrars las instrucciones del ejercicio.
+### Soluciones
+* Autor, Lenguaje, Enlace a la solución.
